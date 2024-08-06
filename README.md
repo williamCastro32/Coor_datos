@@ -1,0 +1,1 @@
+este archivo se esta desarrolando para automatizar procesos de etl desde la base de datos a power bi y otros procesos asociado
